@@ -11,9 +11,6 @@ I'm 19-year-old novice coding enthusiast from India, dedicated to sculpting imme
 * 🧠  I'm learning JavaScript and C++
 * ⚡  I'm low-key a gamer... shhh, it's our little secret!
 
-<a href="https://www.github.com/amcaesio" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/amcaesio?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
-
 ### Skills
 
 
