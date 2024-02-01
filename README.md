@@ -8,7 +8,7 @@ I'm 19-year-old novice coding enthusiast from India, dedicated to sculpting imme
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [itsmehirdaykapil8797@gmail.com](mailto:itsmehirdaykapil8797@gmail.com)
-* 🧠  I'm learning HTML, CSS and JavaScript
+* 🧠  I'm learning JavaScript and C++
 * ⚡  I'm low-key a gamer... shhh, it's our little secret!
 
 <a href="https://www.github.com/amcaesio" target="_blank" rel="noreferrer"><img
